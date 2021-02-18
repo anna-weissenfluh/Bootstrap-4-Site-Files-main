@@ -5,7 +5,6 @@ html,body{
   width:100%;
   font-family:'poppins', sans-serif;
   color:#222;
-
 }
 .navbar[
   padding: .8rem;
@@ -38,13 +37,13 @@ text-shadow: 1px 1px 10px #000;
 padding-bottom:1rem;
 }
 .btn-primary{
-  background-color: #6648b1;
-  border: 1px solid #6648b1;
+  background-color: #9c2754;
+  border: 1px solid #7a1d41;
 
 }
 .btn-primary:hover{
-  background-color: #563d7c;
-  border: 1px solid #563d7c;
+  background-color: #631834;
+  border: 1px solid #58152f;
 
 }
 .jumbotron {
@@ -60,7 +59,7 @@ padding-bottom:1rem;
   padding-top: 2rem;
 }
 .welcome hr{
-  border-top: 2px solid #b4b4b4;
+  border-top: 2px solid #c45074;
   width: 95%;
   margin-top:.3rem;
   margin-bottom: 1rem;
@@ -111,24 +110,24 @@ padding-bottom:1rem;
 .fa-google-plus-g:hover
 .fa-instagram:hover
 .fa-youtube:hover {
-  color:#d5d5d5;
+  color:#e099a4;
 }
 footer{
-  background-color: #3f3f3f;
-  color:#d5d5d5;
+  background-color: #3a272f;
+  color:#e099a4;
   padding-top:2rem;
 }
 hr.light{
-  border-top:1px solid #d5d5d5;
+  border-top:1px solid #e099a4;
   width:75%;
   margin-top:.8rem;
   margin-bottom:1rem;
 }
 footer a{
-  color:#d5d5d5;
+  color:#e099a4;
 }
 hr.light-100{
-  border-top:1px solid #d5d5d5;
+  border-top:1px solid #e099a4;
   width:100%;
   margin-top:.8rem;
   margin-bottom:1rem;
